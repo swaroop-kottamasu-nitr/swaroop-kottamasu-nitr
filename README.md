@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Swaroop Kottamasu👋
 
-<!--
-**swaroop-kottamasu-nitr/swaroop-kottamasu-nitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE student at NIT Rourkela  
+🔐 Interested in Cybersecurity, Linux, Networking, and System Security  
 
-Here are some ideas to get you started:
+## Currently Exploring
+- Linux & Bash
+- TCP/IP Networking
+- Wireshark & Packet Analysis
+- Python scripting
+- CTF-style learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Network Watchdog using Python
+- TCP SYN Flood Simulation using Scapy
+
+## Tools & Technologies
+Python • Linux • Git • Wireshark • TCP/IP • Bash
+
+---
+Always learning and building.
